@@ -1,8 +1,8 @@
 {
   "name": "ofi-hooks",
-  "version": "1.0.1",
+  "version": "1.0.61",
   "description": "",
-  "main": "index.js",
+  "main": "./core",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
