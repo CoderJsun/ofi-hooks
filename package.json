@@ -1,0 +1,25 @@
+{
+  "name": "ofi-hooks",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hooks",
+    "vue-hooks",
+    "vuejs"
+  ],
+  "author": "coderz",
+  "license": "ISC",
+  "homepage": "https://github.com/coderx-waper/ofi-hooks.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderx-waper/ofi-hooks.git"
+  },
+  "dependencies": {
+    "vue": "^3.1.4",
+    "vuex": "^4.0.2"
+  }
+}
