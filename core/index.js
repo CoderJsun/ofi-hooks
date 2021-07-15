@@ -1,9 +1,8 @@
-import { useState } from './useState'
-import { useGetters } from './useGetters'
-import { useMutations } from './useMutations'
+import { useActions , useGetters , useMutations , useState } from './vuex'
 
-export { 
-    useState,
+export {
+    useActions,
     useGetters,
-    useMutations
+    useMutations,
+    useState
 }
