@@ -1,6 +1,6 @@
 {
   "name": "ofi-hooks",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "./core",
   "scripts": {
@@ -9,7 +9,8 @@
   "keywords": [
     "hooks",
     "vue-hooks",
-    "vuejs"
+    "vuejs",
+    "ofi-hooks"
   ],
   "author": "coderz",
   "license": "ISC",
